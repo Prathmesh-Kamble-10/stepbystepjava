@@ -1,0 +1,32 @@
+Requirements of basic level engineer
+
+1) (MERN Stack) active progress : 18%
+
+Java Script : 12%
+React : 7%
+Node
+HTML- basic
+CSS- basic
+MongoDB
+Express JS
+or Next Js
+
+2)  (digital marketing or web developer using php/wordpress)
+PHP + Wordpress
+Codelgniter
+Magento
+Mysql
+
+3) DSA
+
+using js
+
+
+4)topics for suffereing self learning:
+
+Joomla
+osCommerce
+Facebook API
+Google Map API
+Ebay
+Logestic Server API
